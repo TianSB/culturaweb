@@ -1,0 +1,24 @@
+{
+  "slug": "macatobiando",
+  "title": "Macatobiando",
+  "pilar": "libros-inclusivos",
+  "excerpt": "Libro de divulgación científica con diseño universal sobre el Macá Tobiano patagónico, en tinta, braille y relieves.",
+  "coverImage": "/images/projects/macatobiando/tapa_maca.jpg",
+  "gallery": [
+    "/images/projects/macatobiando/El-libro-1.jpg",
+    "/images/projects/macatobiando/El-libro-2.jpg"
+  ],
+  "content": "<p>Macatobiando es un libro de divulgación científica con diseño universal que aborda la historia del Macá Tobiano, un ave patagónica en peligro crítico de extinción. El libro está pensado para ser accesible a todas las infancias, combinando texto en tinta, braille y relieves.</p><p>El proyecto fue desarrollado en colaboración con científicos, ilustradores y especialistas en diseño inclusivo, con el objetivo de acercar la ciencia a niños y niñas con y sin discapacidad visual.</p>",
+  "credits": [
+    { "role": "Texto", "name": "Ale Beron" },
+    { "role": "Ilustraciones", "name": "Sabina Schürmann" }
+  ],
+  "downloads": [
+    { "label": "Frente", "url": "/downloads/Frente-Macatobiando.pdf" },
+    { "label": "Dorso", "url": "/downloads/Dorso-Macatobiando.pdf" }
+  ],
+  "videos": [
+    "https://www.youtube.com/embed/PDGOS0izW0A"
+  ],
+  "externalLinks": []
+}
